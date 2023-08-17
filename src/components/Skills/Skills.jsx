@@ -7,7 +7,7 @@ import redux from "../../assets/images/redux.jpg";
 import uxui from "../../assets/images/uxui.png";
 import scrum from "../../assets/images/scrum.jpg";
 import node from "../../assets/images/node.png";
-import vite from "../../assets/images/vite.PNG";
+import vite from "../../assets/images/vite.png";
 import postgresql from "../../assets/images/postgresql.png";
 import tailwind from "../../assets/images/tailwind.png";
 import sequelize from "../../assets/images/sequelize.png";
