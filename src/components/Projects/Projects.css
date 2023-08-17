@@ -33,7 +33,7 @@
   height: 300px;
   width: 300px;
   border-radius: 40px;
-  background: rgb(5, 7, 37) url(../../assets/images/PI.jpg);
+  background: rgb(5, 7, 37) url(../../assets/images/countries.PNG);
   background-size: cover;
   background-position: center;
   border: 2px solid var(--color-sec-light);
@@ -72,7 +72,7 @@
   height: 300px;
   width: 300px;
   border-radius: 40px;
-  background: rgb(5, 7, 37) url(../../assets/images/PF.jpg);
+  background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.PNG);
   background-size: cover;
   background-position: center;
   border: 2px solid var(--color-sec-light);
@@ -111,7 +111,7 @@
   height: 300px;
   width: 300px;
   border-radius: 40px;
-  background: rgb(5, 7, 37) url(../../assets/images/comming.jpg);
+  background: rgb(5, 7, 37) url(../../assets/images/R-and-M.PNG);
   background-size: cover;
   background-position: center;
   border: 2px solid var(--color-sec-light);
@@ -137,6 +137,15 @@
   font-weight: 100;
   font-size: 17px;
 }
+.projects-container .projects-3 .projects-info .contact-projects {
+  padding: 17px 35px;
+  font-size: 18px;
+  margin-top: 5px;
+  border-radius: 50px;
+  position: absolute;
+  transition: 0.1s ease;
+}
+
 .projects-container .projects .projects-info .contact-projects:hover {
   background-color: transparent;
   border: 2px solid var(--color-sec-light);
@@ -179,7 +188,7 @@
     height: 100px;
     width: 140px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/PI.jpg);
+    background: rgb(5, 7, 37) url(../../assets/images/countries.PNG);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -197,9 +206,9 @@
   }
 
   .projects-container .projects-1 .projects-info .name {
-      font-size: 28px;
-      font-weight: bold;
-      letter-spacing: 1px;
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: 1px;
   }
   .projects-container .projects-1 .projects-info .position {
     font-size: 23px;
@@ -208,7 +217,7 @@
   }
   .projects-container .projects-1 .projects-info .about {
     margin-top: -1px;
-      font-size: 18px;
+    font-size: 18px;
   }
   .projects-container .projects-1 .projects-info a.contact-projects {
     padding: 10px 11px;
@@ -223,7 +232,7 @@
     height: 100px;
     width: 100px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/PF.jpg);
+    background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.PNG);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -242,8 +251,8 @@
 
   .projects-container .projects-2 .projects-info .name {
     font-size: 28px;
-      font-weight: bold;
-      letter-spacing: 1px;
+    font-weight: bold;
+    letter-spacing: 1px;
   }
   .projects-container .projects-2 .projects-info .position {
     font-size: 23px;
@@ -252,7 +261,7 @@
   }
   .projects-container .projects-2 .projects-info .about {
     margin-top: -1px;
-      font-size: 18px;
+    font-size: 18px;
   }
   .projects-container .projects-2 .projects-info a.contact-projects {
     padding: 10px 0px;
@@ -267,7 +276,7 @@
     height: 100px;
     width: 100px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/comming.jpg);
+    background: rgb(5, 7, 37) url(../../assets/images/R-and-M.PNG);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -286,8 +295,8 @@
 
   .projects-container .projects-3 .projects-info .name {
     font-size: 25px;
-      font-weight: bold;
-      letter-spacing: 1px;
+    font-weight: bold;
+    letter-spacing: 1px;
   }
   .projects-container .projects-3 .projects-info .position {
     font-size: 23px;
@@ -296,7 +305,16 @@
   }
   .projects-container .projects-3 .projects-info .about {
     margin-top: -1px;
-      font-size: 18px;
+    font-size: 18px;
+  }
+  .projects-container .projects-3 .projects-info a.contact-projects {
+    padding: 10px 11px;
+    font-size: 15px;
+    border-radius: 50px;
+    transition: 0.1s ease;
+    position: absolute;
+    top: 7px;
+    right: -6px;
   }
 }
 
@@ -336,7 +354,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/PI.jpg);
+    background: rgb(5, 7, 37) url(../../assets/images/countries.PNG);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -381,7 +399,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/PF.jpg);
+    background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.PNG);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -426,7 +444,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/comming.jpg);
+    background: rgb(5, 7, 37) url(../../assets/images/R-and-M.PNG);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -458,7 +476,16 @@
     font-weight: 100;
     font-size: 16px;
   }
+  .projects-container .projects-3 .projects-info a.contact-projects {
+    padding: 12px 14px;
+    font-size: 12px;
+    border-radius: 50px;
+    transition: 0.1s ease;
+    position: absolute;
+    top: -6px;
+    right: 6px;
   }
+}
 
 @media (max-width: 420px) {
   .projects-txt {
@@ -496,7 +523,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/PI.jpg);
+    background: rgb(5, 7, 37) url(../../assets/images/countries.PNG);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -541,7 +568,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/PF.jpg);
+    background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.PNG);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -586,7 +613,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/comming.jpg);
+    background: rgb(5, 7, 37) url(../../assets/images/R-and-M.PNG);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -617,6 +644,15 @@
     margin-top: 10px;
     font-weight: 100;
     font-size: 16px;
+  }
+  .projects-container .projects-3 .projects-info a.contact-projects {
+    padding: 8px 7px;
+    font-size: 11px;
+    border-radius: 50px;
+    transition: 0.1s ease;
+    position: absolute;
+    top: -6px;
+    right: 10px;
   }
 }
 
@@ -657,7 +693,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/PI.jpg);
+    background: rgb(5, 7, 37) url(../../assets/images/countries.PNG);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -702,7 +738,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/PF.jpg);
+    background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.PNG);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -747,7 +783,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/comming.jpg);
+    background: rgb(5, 7, 37) url(../../assets/images/R-and-M.PNG);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -779,7 +815,15 @@
     font-weight: 100;
     font-size: 18px;
   }
-
+  .projects-container .projects-3 .projects-info a.contact-projects {
+    padding: 4px 8px;
+    font-size: 12px;
+    border-radius: 50px;
+    transition: 0.1s ease;
+    position: absolute;
+    top: -7px;
+    right: 5px;
+  }
 }
 
 @media (max-width: 375px) {
@@ -820,7 +864,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/PI.jpg);
+    background: rgb(5, 7, 37) url(../../assets/images/countries.PNG);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -833,7 +877,7 @@
     max-width: 70%;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: flex-start;
   }
 
@@ -857,15 +901,16 @@
     font-size: 11px;
     border-radius: 50px;
     transition: 0.1s ease;
-    position: absolute;
-    top: -3px;
+    position: relative;
+    bottom: 1px;
     right: -1px;
+    margin-top: 10px;
   }
   .projects-container .projects-2 .projects-img {
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/PF.jpg);
+    background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.PNG);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -878,7 +923,7 @@
     max-width: 70%;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: flex-start;
   }
 
@@ -902,15 +947,16 @@
     font-size: 12px;
     border-radius: 50px;
     transition: 0.1s ease;
-    position: absolute;
+    position: relative;
     top: 3px;
     right: -1px;
+    margin-top: 10px;
   }
   .projects-container .projects-3 .projects-img {
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/comming.jpg);
+    background: rgb(5, 7, 37) url(../../assets/images/R-and-M.PNG);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -923,7 +969,7 @@
     max-width: 70%;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: flex-start;
   }
 
@@ -941,5 +987,15 @@
     margin-top: 10px;
     font-weight: 100;
     font-size: 16px;
+  }
+  .projects-container .projects-3 .projects-info a.contact-projects {
+    padding: 6px 13px;
+    font-size: 12px;
+    border-radius: 50px;
+    transition: 0.1s ease;
+    position: relative;
+    top: 3px;
+    right: -1px;
+    margin-top: 10px;
   }
 }

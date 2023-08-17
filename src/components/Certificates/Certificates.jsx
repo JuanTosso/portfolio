@@ -24,7 +24,7 @@ function Certificates() {
           <h3 className="name">EF English Test</h3>
           <h4 className="about">English Level certification</h4>
           <a
-            href="https://www.efset.org/cert/pyvvSu"
+            href="https://www.efset.org/cert/WvW3G8"
             target={"blank"}
             className="contact-certificates"
           >
