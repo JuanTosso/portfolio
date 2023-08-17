@@ -25,6 +25,12 @@
   position: relative;
   background-color: rgba(0, 0, 0, 0.397);
   border-radius: 50%;
+  width: 40px; /* Ajusta este valor según el tamaño deseado */
+  height: 40px; /* Ajusta este valor según el tamaño deseado */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.2s ease;
 }
 
 .icon {

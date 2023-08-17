@@ -112,7 +112,7 @@
 }
 
 .home-container .logo .hover-show.active .circle:nth-child(7) {
-  background: url(../../assets/images/scrum.jpg);
+  background: url(../../assets/images/node.png);
   position: absolute;
   transform: translateX(-139%) translateY(172%);
   background-size: cover;
@@ -172,8 +172,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+
   cursor: pointer;
+  margin-top: 3px;
 }
 
 .scroll-down hr {
@@ -213,7 +214,7 @@
     flex-direction: column;
     align-content: center;
   }
-  
+
   .home-container .logo {
     position: inherit;
     height: 220px;
@@ -307,7 +308,7 @@
     flex-direction: column;
     align-content: center;
   }
-  
+
   .home-container .logo {
     position: inherit;
     height: 220px;
@@ -413,7 +414,7 @@
     flex-direction: column;
     align-content: center;
   }
-  
+
   .home-container .logo {
     position: inherit;
     height: 180px;

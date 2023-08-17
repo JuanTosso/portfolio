@@ -10,14 +10,33 @@
 }
 
 .skills-container {
-  position: absolute;
   display: flex;
-  justify-content: flex-start;
-  align-items: flex-start;
-  width: 75%;
-  padding-top: 2%;
- overflow-x: scroll;
+  flex-wrap: wrap;
+  justify-content: center;
 }
+
+.skill {
+  flex: 0 0 calc(20% - 50px); /* 25% para 4 habilidades por fila */
+  margin: 10px;
+  text-align: center;
+}
+
+.skill h1 {
+  margin-top: 10px;
+}
+
+.skill .content {
+  max-width: 100px; /* Establece el ancho máximo deseado */
+  max-height: 100px; /* Establece la altura máxima deseada */
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  cursor: pointer;
+  background-position: center;
+  background-size: contain;
+}
+
+/*
 
 .skills-container .skill {
   position: relative;
@@ -575,4 +594,4 @@
     width: 150px;
     cursor: pointer;
   }
-}
+} */

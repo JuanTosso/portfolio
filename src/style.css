@@ -8,9 +8,9 @@
   text-decoration: none;
   color: rgb(1, 2, 30);
   font-weight: bolder;
-  z-index: 1;  
+  z-index: 1;
 }
- 
+
 body {
   background: whitesmoke;
   min-height: 100vh;
@@ -88,10 +88,10 @@ body::after {
   align-items: center;
 }
 
-#switch-modo-oscuro{
+#switch-modo-oscuro {
   position: fixed;
- bottom: 30rem;
- right: 1.5rem;
+  bottom: 30rem;
+  right: 1.5rem;
 }
 
 .boton-switch {
@@ -114,16 +114,15 @@ body::after {
 
 .modo.oscuro .root {
   background-color: #000306;
-
 }
-.modo-oscuro *{
-  color: aliceblue; 
+.modo-oscuro * {
+  color: aliceblue;
   font-weight: bolder;
-  z-index: 1; 
+  z-index: 1;
 }
 
 body.modo-oscuro {
-	background-color: black;
+  background-color: black;
 }
 body.modo-oscuro::before {
   content: "";
