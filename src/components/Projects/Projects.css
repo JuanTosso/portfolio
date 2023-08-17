@@ -33,7 +33,7 @@
   height: 300px;
   width: 300px;
   border-radius: 40px;
-  background: rgb(5, 7, 37) url(../../assets/images/countries.PNG);
+  background: rgb(5, 7, 37) url(../../assets/images/countries.jpg);
   background-size: cover;
   background-position: center;
   border: 2px solid var(--color-sec-light);
@@ -72,7 +72,7 @@
   height: 300px;
   width: 300px;
   border-radius: 40px;
-  background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.PNG);
+  background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.jpg);
   background-size: cover;
   background-position: center;
   border: 2px solid var(--color-sec-light);
@@ -111,7 +111,7 @@
   height: 300px;
   width: 300px;
   border-radius: 40px;
-  background: rgb(5, 7, 37) url(../../assets/images/R-and-M.PNG);
+  background: rgb(5, 7, 37) url(../../assets/images/R-and-M.jpg);
   background-size: cover;
   background-position: center;
   border: 2px solid var(--color-sec-light);
@@ -186,9 +186,9 @@
   }
   .projects-container .projects-1 .projects-img {
     height: 100px;
-    width: 140px;
+    width: 230px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/countries.PNG);
+    background: rgb(5, 7, 37) url(../../assets/images/countries.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -232,7 +232,7 @@
     height: 100px;
     width: 100px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.PNG);
+    background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -274,9 +274,9 @@
   }
   .projects-container .projects-3 .projects-img {
     height: 100px;
-    width: 100px;
+    width: 160px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/R-and-M.PNG);
+    background: rgb(5, 7, 37) url(../../assets/images/R-and-M.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -354,7 +354,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/countries.PNG);
+    background: rgb(5, 7, 37) url(../../assets/images/countries.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -399,7 +399,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.PNG);
+    background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -444,7 +444,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/R-and-M.PNG);
+    background: rgb(5, 7, 37) url(../../assets/images/R-and-M.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -523,7 +523,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/countries.PNG);
+    background: rgb(5, 7, 37) url(../../assets/images/countries.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -568,7 +568,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.PNG);
+    background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -613,7 +613,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/R-and-M.PNG);
+    background: rgb(5, 7, 37) url(../../assets/images/R-and-M.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -693,7 +693,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/countries.PNG);
+    background: rgb(5, 7, 37) url(../../assets/images/countries.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -738,7 +738,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.PNG);
+    background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -783,7 +783,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/R-and-M.PNG);
+    background: rgb(5, 7, 37) url(../../assets/images/R-and-M.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -864,7 +864,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/countries.PNG);
+    background: rgb(5, 7, 37) url(../../assets/images/countries.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -910,7 +910,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.PNG);
+    background: rgb(5, 7, 37) url(../../assets/images/nomadLocals.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
@@ -956,7 +956,7 @@
     height: 70px;
     width: 70px;
     border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/R-and-M.PNG);
+    background: rgb(5, 7, 37) url(../../assets/images/R-and-M.jpg);
     background-size: cover;
     background-position: center;
     border: 2px solid var(--color-sec-light);
