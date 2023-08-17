@@ -349,6 +349,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    margin-bottom: 30px;
   }
 
   .certificates-container .certificates-1 .certificates-info .name {
@@ -367,9 +368,9 @@
     a.contact-certificates {
     padding: 2px 9px;
     font-size: 15px;
-    margin-top: 93px;
     border-radius: 50px;
     position: absolute;
+    margin-bottom: 3px;
     transition: 0.1s ease;
   }
   .certificates-container .certificates-2 .certificates-img {
@@ -391,6 +392,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    margin-bottom: 30px;
   }
 
   .certificates-container .certificates-2 .certificates-info .name {
@@ -409,7 +411,7 @@
     a.contact-certificates {
     padding: 1px 9px;
     font-size: 15px;
-    margin-top: 83px;
+    margin-bottom: 5px;
     border-radius: 50px;
     position: absolute;
     transition: 0.1s ease;
@@ -447,7 +449,7 @@
   }
 }
 
-@media (max-width: 420px) {
+@media (max-width: 425px) {
   .certificates-txt {
     font-size: 38px;
     top: 10px;
@@ -496,6 +498,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    margin-bottom: 10px;
   }
 
   .certificates-container .certificates-1 .certificates-info .name {
@@ -514,7 +517,7 @@
     a.contact-certificates {
     padding: 1px 9px;
     font-size: 13px;
-    margin-top: 105px;
+    margin-bottom: 5px;
     border-radius: 50px;
     position: absolute;
     transition: 0.1s ease;
@@ -556,7 +559,7 @@
     a.contact-certificates {
     padding: 1px 9px;
     font-size: 13px;
-    margin-top: 102px;
+    margin-bottom: 5px;
     border-radius: 50px;
     position: absolute;
     transition: 0.1s ease;
@@ -594,155 +597,10 @@
   }
 }
 
-@media (max-width: 400px) {
-  .certificates-txt {
-    font-size: 35px;
-    top: 10px;
-    font-weight: 100;
-    font-family: Poppins;
-    margin: 0px 5rem;
-    text-transform: uppercase;
-    text-shadow: 3px 0px 17px rgba(6, 227, 233, 0.79);
-  }
-  .certificates-container {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: flex-start;
-    min-height: 100vh;
-  }
-
-  .certificates-container .certificates {
-    position: relative;
-    display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
-    width: 100%;
-    margin-bottom: 25px;
-    background: rgba(0, 0, 0, 0.116);
-    padding: 28px;
-    border-radius: 50px;
-    backdrop-filter: blur(20px);
-  }
-  .certificates-container .certificates-1 .certificates-img {
-    height: 70px;
-    width: 70px;
-    border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/certificadoHenry.png);
-    background-size: cover;
-    background-position: center;
-    border: 2px solid var(--color-sec-light);
-  }
-
-  .certificates-container .certificates-1 .certificates-info {
-    position: relative;
-    margin-left: 6px;
-    font-family: Poppins;
-    max-width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-  }
-
-  .certificates-container .certificates-1 .certificates-info .name {
-    font-size: 18px;
-    font-weight: bold;
-    letter-spacing: 1px;
-  }
-
-  .certificates-container .certificates-1 .certificates-info .about {
-    margin-top: -1px;
-    font-size: 15px;
-  }
-  .certificates-container
-    .certificates-1
-    .certificates-info
-    a.contact-certificates {
-    padding: 1px 9px;
-    font-size: 13px;
-    margin-top: 95px;
-    border-radius: 50px;
-    position: absolute;
-    transition: 0.1s ease;
-  }
-  .certificates-container .certificates-2 .certificates-img {
-    height: 70px;
-    width: 70px;
-    border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/EF.png);
-    background-size: cover;
-    background-position: center;
-    border: 2px solid var(--color-sec-light);
-  }
-
-  .certificates-container .certificates-2 .certificates-info {
-    position: relative;
-    margin-left: 10px;
-    font-family: Poppins;
-    max-width: 70%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-  }
-
-  .certificates-container .certificates-2 .certificates-info .name {
-    font-size: 18px;
-    font-weight: bold;
-    letter-spacing: 1px;
-  }
-
-  .certificates-container .certificates-2 .certificates-info .about {
-    margin-top: -1px;
-    font-size: 15px;
-  }
-  .certificates-container
-    .certificates-2
-    .certificates-info
-    a.contact-certificates {
-    padding: 1px 9px;
-    font-size: 13px;
-    margin-top: 95px;
-    border-radius: 50px;
-    position: absolute;
-    transition: 0.1s ease;
-  }
-  .certificates-container .certificates-3 .certificates-img {
-    height: 70px;
-    width: 70px;
-    border-radius: 50%;
-    background: rgb(5, 7, 37) url(../../assets/images/comming.jpg);
-    background-size: cover;
-    background-position: center;
-    border: 2px solid var(--color-sec-light);
-  }
-
-  .certificates-container .certificates-3 .certificates-info {
-    position: relative;
-    margin-left: 10px;
-    font-family: Poppins;
-    max-width: 70%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-  }
-
-  .certificates-container .certificates-3 .certificates-info .name {
-    font-size: 18px;
-    font-weight: bold;
-    letter-spacing: 1px;
-  }
-
-  .certificates-container .certificates-3 .certificates-info .about {
-    margin-top: -1px;
-    font-size: 15px;
-  }
-}
-
 @media (max-width: 375px) {
+  .container {
+    padding: 10px 10px;
+  }
   .certificates-txt {
     font-size: 35px;
     top: 10px;
@@ -771,7 +629,7 @@
     margin-top: 15px;
     margin-bottom: 20px;
     background: rgba(0, 0, 0, 0.116);
-    padding: 30px;
+    padding: 20px;
     border-radius: 50px;
     backdrop-filter: blur(20px);
   }
@@ -837,6 +695,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+    margin-bottom: 20px;
   }
 
   .certificates-container .certificates-2 .certificates-info .name {
@@ -855,7 +714,7 @@
     a.contact-certificates {
     padding: 1px 9px;
     font-size: 13px;
-    margin-top: 120px;
+    margin-bottom: 5px;
     border-radius: 50px;
     position: absolute;
     transition: 0.1s ease;

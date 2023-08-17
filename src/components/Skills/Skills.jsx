@@ -75,7 +75,7 @@ const Skills = () => {
               height="150px"
             />
           </div>
-          <h1>JAVASCRIPT</h1>
+          <h1>JS</h1>
         </div>
         <div className="skill">
           <div>
