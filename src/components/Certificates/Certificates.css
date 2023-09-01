@@ -598,9 +598,6 @@
 }
 
 @media (max-width: 375px) {
-  .container {
-    padding: 10px 10px;
-  }
   .certificates-txt {
     font-size: 35px;
     top: 10px;
@@ -612,6 +609,7 @@
   }
 
   .certificates-container {
+    padding: 10px 10px;
     position: relative;
     display: flex;
     flex-direction: column;

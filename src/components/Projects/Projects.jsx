@@ -30,7 +30,7 @@ const Projects = () => {
         <div className="projects-img"></div>
         <div className="projects-info">
           <h1 className="name">Countries</h1>
-          <h3 className="position">Single Page Application</h3>
+          <h3 className="position">Single Page App.</h3>
           <h4 className="about">
             Was developed for my Individual Project on the Henry Fullstack
             Developer bootcamp. The data is extracted from an internal API.
