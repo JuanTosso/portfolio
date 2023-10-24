@@ -4,7 +4,6 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-  min-height: 100vh;
 }
 
 .certificates-container .certificates {
@@ -94,7 +93,7 @@
   position: absolute;
   transition: 0.1s ease;
 }
-
+/* 
 .certificates-container .certificates-3 .certificates-img {
   height: 300px;
   width: 300px;
@@ -135,7 +134,7 @@
   border-radius: 50px;
   position: absolute;
   transition: 0.1s ease;
-}
+} */
 .certificates-container
   .certificates
   .certificates-info
@@ -167,7 +166,7 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    min-height: 100vh;
+
     width: 90%;
   }
 
@@ -465,7 +464,6 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    min-height: 100vh;
   }
 
   .certificates-container .certificates {
@@ -615,7 +613,6 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    min-height: 100vh;
   }
 
   .certificates-container .certificates {

@@ -3,7 +3,7 @@ import "./Certificates.css";
 
 function Certificates() {
   return (
-    <div id="certificates" className="container certificates-container">
+    <div className="container certificates-container">
       <div className="certificates certificates-1">
         <div className="certificates-img"></div>
         <div className="certificates-info">

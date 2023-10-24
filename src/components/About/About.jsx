@@ -16,20 +16,17 @@ function About() {
           business dynamics. This experience offers me a unique perspective on
           how technology can transform both businesses and society.
         </p>
-        {/* <p>
-          I'm driven by personal and professional growth, focusing on
-          collaboration. My key strengths include problem-solving, studying new
-          technologies, and pragmatis
-        </p> */}
+        <br />
         <p>
           Starting in late 2022, I committed to transitioning my career into
           technology. I enrolled in the Full Stack Development program at Henry,
           which became a transformative journey. Now, after completing my
           program, I am now entering the world of the technology workforce,
           having already had my first experience as a Full Stack Developer. My
-          key strengths include problem-solving, studying new technologies, and
+          key strengths include problem-solving, studying new technologies and
           pragmatism.
         </p>
+        <br />
         <p>
           Beyond seeking a job, I'm dedicated to self-education, tech immersion,
           and networking with professionals to collectively thrive. If you're in

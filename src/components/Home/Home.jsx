@@ -23,17 +23,11 @@ function Home() {
         <img className="img" src={img} alt="" />
       </div>
 
-      <a href="#footer" className="scroll-down">
-        <hr />
-        <h5>scroll down</h5>
-        <BsMouse className="scroll" />
-        <hr />
-      </a>
       <About />
       <h1>DOWNLOAD CV</h1>
       <Buttons />
       <br />
-      <h1>CERTIFICATES</h1>
+      <h1 id="certificates">CERTIFICATES</h1>
       <Certificates />
     </div>
   );

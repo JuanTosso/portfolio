@@ -15,7 +15,7 @@ import sequelize from "../../assets/images/sequelize.png";
 const Skills = () => {
   return (
     <div>
-      <span className="skill-text">My Skills</span>
+      <h1 className="skill-text">My Skills</h1>
       <div className="skills-container">
         <div className="skill">
           <div>
@@ -27,7 +27,7 @@ const Skills = () => {
               height="150px"
             />
           </div>
-          <h1>REACT</h1>
+          <h3>REACT</h3>
         </div>
         <div className="skill">
           <div>
@@ -39,7 +39,7 @@ const Skills = () => {
               height="150px"
             />
           </div>
-          <h1>UX/UI</h1>
+          <h3>UX/UI</h3>
         </div>
         <div className="skill">
           <div>
@@ -51,7 +51,7 @@ const Skills = () => {
               height="150px"
             />
           </div>
-          <h1>HTML</h1>
+          <h3>HTML</h3>
         </div>
         <div className="skill">
           <div>
@@ -63,7 +63,7 @@ const Skills = () => {
               height="150px"
             />
           </div>
-          <h1>CSS</h1>
+          <h3>CSS</h3>
         </div>
         <div className="skill">
           <div>
@@ -75,7 +75,7 @@ const Skills = () => {
               height="150px"
             />
           </div>
-          <h1>JS</h1>
+          <h3>JS</h3>
         </div>
         <div className="skill">
           <div>
@@ -87,7 +87,7 @@ const Skills = () => {
               height="150px"
             />
           </div>
-          <h1>REDUX</h1>
+          <h3>REDUX</h3>
         </div>
         <div className="skill">
           <div>
@@ -99,7 +99,7 @@ const Skills = () => {
               height="150px"
             />
           </div>
-          <h1>SCRUM</h1>
+          <h3>SCRUM</h3>
         </div>
         <div className="skill">
           <div>
@@ -111,7 +111,7 @@ const Skills = () => {
               height="150px"
             />
           </div>
-          <h1>nodeJS</h1>
+          <h3>nodeJS</h3>
         </div>
         <div className="skill">
           <div>
@@ -123,7 +123,7 @@ const Skills = () => {
               height="150px"
             />
           </div>
-          <h1>VITEjs</h1>
+          <h3>VITEjs</h3>
         </div>
         <div className="skill">
           <div>
@@ -135,7 +135,7 @@ const Skills = () => {
               height="150px"
             />
           </div>
-          <h1>Tailwind</h1>
+          <h3>Tailwind</h3>
         </div>
         <div className="skill">
           <div>
@@ -147,7 +147,7 @@ const Skills = () => {
               height="150px"
             />
           </div>
-          <h1>postgreSQL</h1>
+          <h3>postgreSQL</h3>
         </div>
         <div className="skill">
           <div>
@@ -159,7 +159,7 @@ const Skills = () => {
               height="150px"
             />
           </div>
-          <h1>Sequelize</h1>
+          <h3>Sequelize</h3>
         </div>
       </div>
     </div>
