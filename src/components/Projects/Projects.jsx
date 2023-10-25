@@ -26,6 +26,65 @@ const Projects = () => {
         </div>
       </div>
 
+      <div className="projects projects-4">
+        <div className="projects-img"></div>
+        <div className="projects-info">
+          <h1 className="name">Crypto Quote</h1>
+          <h3 className="position">Personal Proyect</h3>
+          <h4 className="about">
+            Crypto quote generator, which consumes information from an API to
+            provide real-time quotes for the main cryptocurrencies in different
+            currencies, such as dollars, euros, etc.
+          </h4>
+          <a
+            href="https://crypto-quoter-jt.netlify.app/"
+            className="contact-projects"
+            target={"blank"}
+          >
+            <span>See More...</span>
+          </a>
+        </div>
+      </div>
+
+      <div className="projects projects-5">
+        <div className="projects-img"></div>
+        <div className="projects-info">
+          <h1 className="name">Vet Appointments</h1>
+          <h3 className="position">Personal Proyect</h3>
+          <h4 className="about">
+            Project for a veterinary clinic, with the aim of scheduling
+            patients, recording their symptoms, and being able to track them
+            while updating their status until discharge.
+          </h4>
+          <a
+            href="https://vetpacientesjt.netlify.app/"
+            className="contact-projects"
+            target={"blank"}
+          >
+            <span>See More...</span>
+          </a>
+        </div>
+      </div>
+
+      <div className="projects projects-6">
+        <div className="projects-img"></div>
+        <div className="projects-info">
+          <h1 className="name">Expense control</h1>
+          <h3 className="position">Personal Proyect</h3>
+          <h4 className="about">
+            Project to create and manage budgets, create expenses, edit them,
+            and have a detailed record of them.
+          </h4>
+          <a
+            href="https://gastos-presupuesto-jt.netlify.app/"
+            className="contact-projects"
+            target={"blank"}
+          >
+            <span>See More...</span>
+          </a>
+        </div>
+      </div>
+
       <div className="projects projects-1">
         <div className="projects-img"></div>
         <div className="projects-info">
